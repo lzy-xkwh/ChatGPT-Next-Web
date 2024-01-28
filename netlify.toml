@@ -1,2 +1,1 @@
-[build]
-  publish = ".vercel/output/static"
+
